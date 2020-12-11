@@ -57,7 +57,7 @@ def run_radhe():
         song = command.replace("play ", "")
         talk("playing" + song)
         pywhatkit.playonyt(song)
-        # pywhatkit.sendwhatmsg("+919483637967", song +
+        # pywhatkit.sendwhatmsg("+919463034962", song +
         #                      " is playing in youtube now", 10, 46)
 
     elif "time" in command:
